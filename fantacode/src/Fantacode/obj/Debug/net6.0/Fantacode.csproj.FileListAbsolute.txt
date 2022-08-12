@@ -1,0 +1,15 @@
+D:\Codes\C#\fantacode\src\Fantacode\bin\Debug\net6.0\Fantacode.exe
+D:\Codes\C#\fantacode\src\Fantacode\bin\Debug\net6.0\Fantacode.deps.json
+D:\Codes\C#\fantacode\src\Fantacode\bin\Debug\net6.0\Fantacode.runtimeconfig.json
+D:\Codes\C#\fantacode\src\Fantacode\bin\Debug\net6.0\Fantacode.dll
+D:\Codes\C#\fantacode\src\Fantacode\bin\Debug\net6.0\Fantacode.pdb
+D:\Codes\C#\fantacode\src\Fantacode\obj\Debug\net6.0\Fantacode.csproj.AssemblyReference.cache
+D:\Codes\C#\fantacode\src\Fantacode\obj\Debug\net6.0\Fantacode.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes\C#\fantacode\src\Fantacode\obj\Debug\net6.0\Fantacode.AssemblyInfoInputs.cache
+D:\Codes\C#\fantacode\src\Fantacode\obj\Debug\net6.0\Fantacode.AssemblyInfo.cs
+D:\Codes\C#\fantacode\src\Fantacode\obj\Debug\net6.0\Fantacode.csproj.CoreCompileInputs.cache
+D:\Codes\C#\fantacode\src\Fantacode\obj\Debug\net6.0\Fantacode.dll
+D:\Codes\C#\fantacode\src\Fantacode\obj\Debug\net6.0\refint\Fantacode.dll
+D:\Codes\C#\fantacode\src\Fantacode\obj\Debug\net6.0\Fantacode.pdb
+D:\Codes\C#\fantacode\src\Fantacode\obj\Debug\net6.0\Fantacode.genruntimeconfig.cache
+D:\Codes\C#\fantacode\src\Fantacode\obj\Debug\net6.0\ref\Fantacode.dll
